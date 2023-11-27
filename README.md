@@ -1,5 +1,5 @@
 # HKULunchPicker
-COMP3330 Group Project
+## COMP3330 Group Project
 
 1. Run python ./server/server.py
 2. Copy the server IP (not 127.0.0.1)
