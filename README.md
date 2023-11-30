@@ -1,6 +1,10 @@
 # HKULunchPicker
-COMP3330 Group Project
+2023 COMP3330 Group 19
 
+## Presentation Slides
+https://docs.google.com/presentation/d/1egmJWpI8lgEMbBBCKi9yk2A0Wdogz0NQM221Z0KA0JA/edit?usp=sharing
+
+## Set-up Guide
 1. Open in Android Studio
 2. Run python ./server/server.py in Terminal
 3. Copy the server IP (not 127.0.0.1)
