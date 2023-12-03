@@ -1,5 +1,5 @@
-# HKULunchPicker
-2023 COMP3330 Group 19
+# HKU Lunch Picker
+2023 Fall Semester COMP3330 Group 19
 
 ## Presentation Slides
 https://docs.google.com/presentation/d/1egmJWpI8lgEMbBBCKi9yk2A0Wdogz0NQM221Z0KA0JA/edit?usp=sharing
